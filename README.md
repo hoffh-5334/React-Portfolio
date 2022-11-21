@@ -44,7 +44,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 
 ## Screenshot
-
+![screenshot](./src/assets/images/portfoliopage.png)
 
 
 ## Contact
